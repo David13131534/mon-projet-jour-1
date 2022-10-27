@@ -1,7 +1,2 @@
-1joutezaeaeaeaeaeaeaeaeaeazeaeaeaea GITHUB
-2ajoutezaeaeaeaeaeaeaeaeaeazeaeaeaea GITHUB
 # mon-projet-jour-1
-
-mon 1er projet git
-3ajoutezaeaeaeaeaeaeaeaeaeazeaeaeaea GITHUB
-4ajoutezaeaeaeaeaeaeaeaeaeazeaeaeaea GITHUB
+mon 1er projet git:wq
