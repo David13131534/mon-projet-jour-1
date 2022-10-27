@@ -1,2 +1,2 @@
 # mon-projet-jour-1
-mon 1er projet git:wq
+mon 1er projet git
